@@ -1,4 +1,3 @@
-import com.tngtech.java.junit.dataprovider.UseDataProvider;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
